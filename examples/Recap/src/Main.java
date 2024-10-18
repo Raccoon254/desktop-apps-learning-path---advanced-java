@@ -11,7 +11,6 @@ class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Creating a Scanner object for console input
         register("Juma", "password"); // Registering a user with predefined credentials
-
         // Prompting the user for their first name using a dialog box
         String firstName = JOptionPane.showInputDialog(null, "Enter your first name");
         String lastName = "Victor"; // Defining a last name
