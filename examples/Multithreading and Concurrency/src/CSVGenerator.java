@@ -12,7 +12,7 @@ public class CSVGenerator {
             String[] firstNames = {"John", "Jane", "Alice", "Bob", "Charlie", "Steve"};
             String[] lastNames = {"Doe", "Smith", "Johnson", "Brown", "Lee", "Davis"};
 
-            for (int i = 1; i <= 100_000 ; i++) {
+            for (int i = 1; i <= 1_000_000 ; i++) {
                 String name = firstNames[random.nextInt(firstNames.length)] + " " + lastNames[random.nextInt(lastNames.length)];
                 String phoneNumber;
                 
