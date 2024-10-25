@@ -2,7 +2,6 @@ public class Main {
     
     private volatile int age = 10;
     
-    
     public static void main(String[] args) {
         MyThread thread = new MyThread();
         MyThread yourThread = new MyThread();
