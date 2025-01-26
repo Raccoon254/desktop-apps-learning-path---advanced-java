@@ -68,4 +68,4 @@ The `projects/` directory contains guidelines and starter code for the midterm a
 - Check the course platform regularly for announcements, additional resources, and updates.
 - Make use of office hours and discussion forums to clarify doubts and share insights with your peers.
 
-Remember, the key to mastering Java desktop application development is practice. Code regularly, challenge yourself, and don't hesitate to ask questions. Good luck, and enjoy the course!
+Remember, the key to mastering Java desktop application development is practice. Code regularly, challenge yourself, and ask questions. Good luck!
